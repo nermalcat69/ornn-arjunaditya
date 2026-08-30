@@ -20,7 +20,7 @@ const fontPixel = Silkscreen({
 export const metadata: Metadata = {
   title: "Arjun Aditya",
   description:
-    "Sustainable programmer and founder engineer who likes nature and designing.",
+    "Reactional Programmer who likes to build things.",
   icons: {
     icon: "/favicon.png",
     shortcut: "/favicon.png",
