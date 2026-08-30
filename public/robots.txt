@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://coldran.com
+
+# Sitemaps
+Sitemap: https://coldran.com/sitemap.xml
